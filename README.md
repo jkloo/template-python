@@ -5,7 +5,7 @@ Foobar
 [![Coverage Status](https://coveralls.io/repos/jacebrowning/template-python/badge.png?branch=master)](https://coveralls.io/r/jacebrowning/template-python?branch=master)
 [![PyPI Version](https://badge.fury.io/py/Foobar.png)](http://badge.fury.io/py/Foobar)
 
-Foobar is a template for a typical Python 3 library package.
+Foobar is a template for a typical Python 2 library package.
 
 To adopt for a new project:
 
@@ -21,7 +21,7 @@ Getting Started
 Requirements
 ------------
 
-* Python 3.3: http://www.python.org/download/releases/3.3.4/#download
+* Python 2.7: http://www.python.org/getit/releases/2.7.6/#download
 
 
 Installation
